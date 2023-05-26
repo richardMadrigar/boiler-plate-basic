@@ -1,0 +1,10 @@
+node_modules/
+tmp/uploads/*
+
+# production
+/build
+/dist
+/.env
+
+# tests
+coverage
